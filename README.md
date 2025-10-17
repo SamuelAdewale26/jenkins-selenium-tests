@@ -77,7 +77,7 @@ Go to repository Settings
 Click "Webhooks"
 Add webhook:
 
-Payload URL: http://http://localhost:8080/job/Selenium_Integration_Test/github-webhook/
+Payload URL: http://localhost:8080/github-webhook/
 Content type: application/json
 
 
